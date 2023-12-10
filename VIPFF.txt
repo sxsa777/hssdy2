@@ -24,6 +24,111 @@
       "jar":"./lib/alibaba.jar"
     },
     {
+      "key": "南瓜",
+      "name": "鲸鱼┃南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "天天",
+      "name": "鲸鱼┃天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "樱花",
+      "name": "鲸鱼┃樱花",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/yinghua",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "嘿嘿",
+      "name": "鲸鱼┃侠客",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/xiake",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+     },
+    {
+      "key": "超神",
+      "name": "鲸鱼┃超神",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/chaoshen",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "嘶哩",
+      "name": "鲸鱼┃嘶哩",
+      "type": 3,
+      "api": "csp_Skapp",
+      "playerType": 2,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/sili",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "鲸鱼┃蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "老虎",
+      "name": "鲸鱼┃老虎",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/laohu",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "极速播",
+      "name": "鲸鱼┃速播",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "乐鱼影视",
+      "name": "鲸鱼┃乐鱼",
+      "type": 3,
+      "api": "./lib/drpy3.min.js",
+      "ext": "./lib/乐鱼影视.js"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "鲸鱼┃玩偶",
       "type": 3,
@@ -808,7 +913,7 @@
     {
       "name": "鲸鱼解析3",
       "type": 1,
-      "url": "https://jx.xmflv.cc/?url="
+      "url": "https://www.qiaoji8.com/tvbox/neibu.php?url="
     },
     {
       "name": "鲸鱼解析4",
@@ -1296,7 +1401,7 @@
     "cms.qdwght.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "wallpaper": "https://codeberg.org/hssdy/jingyu/raw/branch/main/绿色壁纸.png",
+  "wallpaper": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/绿色壁纸.png",
   "warningText": "鲸鱼反馈群：934640982",
   "spider": "./lib/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
