@@ -45,10 +45,10 @@
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
-      "key": "樱花",
+      "key": "樱花动漫",
       "name": "鲸鱼┃樱花",
       "type": 3,
-      "api": "csp_qiao",
+      "api": "csp_App",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -125,7 +125,7 @@
       "key": "乐鱼影视",
       "name": "鲸鱼┃乐鱼",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
+      "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/乐鱼影视.js"
     },
     {
