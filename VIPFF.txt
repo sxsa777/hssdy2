@@ -3,13 +3,14 @@
 {
   "sites": [
     {
-      "key": "天天",
+      "key": "csp_聚短视频",
       "name": "鲸鱼┃影视",
       "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "api": "./lib/drpy3.min.js",
+      "ext": "./lib/短视频.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "csp_KungFu404",
@@ -77,6 +78,15 @@
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
+      "key": "天天",
+      "name": "鲸鱼┃天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
       "key": "蝴蝶",
       "name": "鲸鱼┃蝴蝶",
       "type": 3,
@@ -123,17 +133,6 @@
       "playerType": 2,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/qiaoji3",
       "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
-    },
-    {
-      "key": "极速播",
-      "name": "鲸鱼┃速播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "乐鱼影视",
@@ -424,17 +423,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
-    },
-    {
-      "key": "车妹",
-      "name": "鲸鱼┃车妹",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
       "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
@@ -919,6 +907,19 @@
       "filterable": 1,
       "ext": "./lib/555.json",
       "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "鲸鱼┃虎牙",
+      "type": 3,
+      "api": "./lib/drpy3.min.js",
+      "ext": "./lib/虎牙直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     }
   ],
   "lives": [
