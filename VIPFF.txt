@@ -311,7 +311,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/Free.json",
-      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+      "jar": "./lib/HeChengChaXiu.jar"
     },
     {
      "key": "七新",
@@ -322,7 +322,7 @@
      "quickSearch": 1,
      "filterable": 1,
      "ext": "./lib/七新.json",
-     "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+     "jar": "./lib/HeChengChaXiu.jar"
     },
     {
       "key": "在线之家",
