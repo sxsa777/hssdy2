@@ -22,14 +22,14 @@
       "jar":"./lib/alibaba.jar"
     },
     {
-      "key": "南瓜弹幕版",
+      "key": "南瓜fan",
       "name": "鲸鱼┃南瓜",
       "type": 3,
       "api": "csp_NanGua",
+      "playerType": 2,
       "searchable": 1,
-      "changeable": 1,
-      "ext": "null$$$1",
-      "jar": "./lib/pg.jar;md5;A69E051145CA55B1EA7F8A436E31D6DC"
+      "quickSearch": 1,
+      "changeable": 1  
     },
     {
       "key": "樱花动漫",
@@ -191,17 +191,15 @@
       "changeable": 0
     },
     {
-      "key": "荐片弹幕版ok",
+      "key": "荐片",
       "name": "鲸鱼┃荐片",
       "type": 3,
-      "api": "csp_Jianpian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "jar": "./lib/ok.png;md5;8ACD7F94D1EF1E0F203FD36EFFAE4393"
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib/drpy4.min.js",
+      "ext": "./lib/jp.js"  
     },
     {
       "key": "玩偶哥哥",
