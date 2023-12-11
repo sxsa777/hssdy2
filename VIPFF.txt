@@ -3,14 +3,13 @@
 {
   "sites": [
     {
-      "key": "csp_聚短视频",
+      "key": "天天",
       "name": "鲸鱼┃影视",
       "type": 3,
-      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "csp_KungFu404",
@@ -75,15 +74,6 @@
       "api": "csp_Skapp",
       "playerType": 2,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/sili",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
-    },
-    {
-      "key": "天天",
-      "name": "鲸鱼┃天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn",
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
@@ -907,6 +897,16 @@
       "filterable": 1,
       "ext": "./lib/555.json",
       "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+    },
+    {
+      "key": "csp_聚短视频",
+      "name": "鲸鱼┃聚短",
+      "type": 3,
+      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/短视频.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "虎牙直播js",
