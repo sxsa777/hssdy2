@@ -3,15 +3,13 @@
 {
   "sites": [
     {
-     "key": "555影视",
+      "key": "天天",
       "name": "鲸鱼┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/555.json",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0" 
+      "api": "csp_TTian",
+      "playerType": 1,
+      "ext": "http://op.ysdqjs.cn",
+      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "csp_KungFu404",
@@ -33,15 +31,6 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
-    },
-    {
-      "key": "天天",
-      "name": "鲸鱼┃天天",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 1,
-      "ext": "http://op.ysdqjs.cn",
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
@@ -109,6 +98,33 @@
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/laohu",
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "巧技一",
+      "name": "鲸鱼┃巧一",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/qiaoji1",
+      "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+    },
+    {
+      "key": "巧技二",
+      "name": "鲸鱼┃巧二",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/qiaoji2",
+      "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+    },
+    {
+      "key": "巧技三",
+      "name": "鲸鱼┃巧三",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/qiaoji3",
+      "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
     },
     {
       "key": "极速播",
@@ -875,16 +891,6 @@
       "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/6V.js"
     },
     {
-      "key": "短剧网",
-      "name": "鲸鱼┃短剧",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://gitee.com/gagakuai/tvbox/raw/master/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
       "key": "77",
       "name": "鲸鱼┃七七",
       "type": 3,
@@ -904,6 +910,27 @@
       "changeable": 0,
       "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod",
       "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+    },
+    {
+      "key": "555影视",
+      "name": "鲸鱼┃五五",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/555.json",
+      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+    },
+    {
+      "key": "短剧网",
+      "name": "鲸鱼┃短剧",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://gitee.com/gagakuai/tvbox/raw/master/lib/ou.jar;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     }
   ],
   "lives": [
