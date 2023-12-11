@@ -191,15 +191,12 @@
       "changeable": 0
     },
     {
-      "key": "荐片",
+      "key": "drpy_js_荐片",
       "name": "鲸鱼┃荐片",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "./lib/drpy4.min.js",
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/jp.js"  
+      "api": "https://agit.ai/fantaiying/0/src/branch/main/lib/drpy2.min.js",
+      "ext": "./lib/荐片.js",
+      "playerType": "1"  
     },
     {
       "key": "玩偶哥哥",
