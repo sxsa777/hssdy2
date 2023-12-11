@@ -6,8 +6,8 @@
       "key": "csp_聚短视频",
       "name": "鲸鱼┃影视",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
-      "ext": "./lib/短视频.js",
+      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -912,8 +912,8 @@
       "key": "虎牙直播js",
       "name": "鲸鱼┃虎牙",
       "type": 3,
-      "api": "./lib/drpy3.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/虎牙直播.js",
       "style": {
         "type": "list"
       },
