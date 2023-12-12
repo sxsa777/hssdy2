@@ -925,7 +925,7 @@
       "name": "鲸鱼┃聚短",
       "type": 3,
       "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/短视频.js",
+      "ext": "./lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -935,7 +935,7 @@
       "name": "鲸鱼┃虎牙",
       "type": 3,
       "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/虎牙直播.js",
+      "ext": "./lib/虎牙直播.js",
       "style": {
         "type": "list"
       },
@@ -974,7 +974,7 @@
     {
       "name": "鲸鱼解析2",
       "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+      "url": ""
     },
     {
       "name": "鲸鱼解析3",
