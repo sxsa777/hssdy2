@@ -180,6 +180,17 @@
       "changeable": 0
     },
     {
+      "key": "时常影视",
+      "name": "鲸鱼┃时常",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "",
+      "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
+    },
+    {
       "key":"csp_JianPian",
       "name":"鲸鱼┃荐片",
       "type":3,
@@ -190,6 +201,28 @@
       "filterable":1,
       "ext":"https://ownjpykxttjzuhy.jiesiwa.com",
       "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "蘑菇",
+      "name": "鲸鱼┃蘑菇",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "ext": {
+        "主页url": "https://www.moguys.xyz",
+        "副标题": "pic-text text-right\">&&</b>",
+        "搜索模式": "1",
+        "搜索url": "https://www.moguys.xyz/vodsearch/{wd}----------1---.html",
+        "图片": "data-original=\"&&\"",
+        "嗅探词": ".mp4#m3u8#.m3u8#/tos/",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "分类": "电影$movie#连续剧$tv#综艺$variety#动漫$cartoon",
+        "分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
+      },
+      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "玩偶哥哥",
