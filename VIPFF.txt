@@ -924,24 +924,26 @@
       "key": "csp_聚短视频",
       "name": "鲸鱼┃聚短",
       "type": 3,
-      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "虎牙直播js",
       "name": "鲸鱼┃虎牙",
       "type": 3,
-      "api": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/drpy3.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/虎牙直播.js",
       "style": {
         "type": "list"
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     }
   ],
   "lives": [
