@@ -370,6 +370,27 @@
       "jar": "./lib/HeChengChaXiu.jar"
     },
     {
+      "key": "Auete",
+      "name": "鲸鱼┃好战",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://haozhansou.com/"
+    },
+    {
+      "key": "csp_Bdys",
+      "name": "鲸鱼┃哔嘀",
+      "playerType": "1",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://bjson.cf/XYQ.jar"
+    },
+    {
      "key": "七新",
      "name": "鲸鱼┃七新",
      "type": 3,
