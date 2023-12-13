@@ -1006,7 +1006,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "./lib/main.jar;md5;d438b696f10e70386da9700590546aa8",
+      "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "./lib/zyy.json"
     },
     {
