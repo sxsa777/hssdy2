@@ -229,7 +229,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
+      "jar":"https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
     },
     {
       "key": "UpYun",
@@ -239,7 +240,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar":"https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
     },
     {
       "key": "热播库",
