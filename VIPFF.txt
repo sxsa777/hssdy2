@@ -952,7 +952,7 @@
     },
     {
       "key": "XBPQ_葡萄",
-      "name": "鲸鱼┃葡萄",
+      "name": "鲸鱼┃短剧",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
@@ -1006,7 +1006,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "jar": "https://jihulab.com/zxjk/jk/-/raw/main/qrh/main.jar;md5;d438b696f10e70386da9700590546aa8",
       "ext": "./lib/zyy.json"
     },
     {
