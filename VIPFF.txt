@@ -43,7 +43,7 @@
     },
     {
       "key": "嘿嘿",
-      "name": "鲸鱼┃侠客",
+      "name": "鲸鱼┃侠客℡",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -76,7 +76,7 @@
     },
     {
       "key": "蝴蝶",
-      "name": "鲸鱼┃蝴蝶",
+      "name": "鲸鱼┃蝴蝶℡",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
@@ -85,7 +85,7 @@
     },
     {
       "key": "老虎",
-      "name": "鲸鱼┃老虎",
+      "name": "鲸鱼┃老虎℡",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
