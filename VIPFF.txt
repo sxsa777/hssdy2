@@ -248,7 +248,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
     },
     {
       "key": "UpYun",
@@ -259,7 +259,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
     },
     {
       "key": "热播库",
@@ -1058,7 +1058,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+      "url": "https://xhdwc.tk/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1079,27 +1079,27 @@
     {
       "name": "鲸鱼解析1",
       "type": 1,
-      "url": "http://jx.xn--od1aq39b.net:8899/api/?key=POjmrpdo52ufLKSOUp&url="
+      "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "鲸鱼解析2",
       "type": 1,
-      "url": ""
+      "url": "http://jx.xn--od1aq39b.net:8899/api/?key=POjmrpdo52ufLKSOUp&url="
     },
     {
       "name": "鲸鱼解析3",
       "type": 1,
-      "url": "https://www.qiaoji8.com/tvbox/neibu.php?url="
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v="
     },
     {
       "name": "鲸鱼解析4",
       "type": 1,
-      "url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url="
+      "url": ""
     },
     {
       "name": "鲸鱼解析5",
       "type": 1,
-      "url": "https://jx.xmflv.com/?url="
+      "url": ""
     }
   ],
   "flags": [
