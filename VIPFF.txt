@@ -1579,5 +1579,5 @@
   ],
   "wallpaper": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/绿色壁纸.png",
   "warningText": "鲸鱼反馈群：934640982",
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
+  "spider": "./lib/hssdy12.14.jar"
 }
