@@ -1,5 +1,3 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//本接口免费分享给小白学习使用，请勿轻信他人，谨防上当受骗。
 {
   "sites": [
     {
@@ -9,17 +7,17 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "csp_KungFu404",
-      "name":"鲸鱼┃设置",
-      "type": 3, 
-      "api": "csp_KungFu404", 
-      "searchable":1,
-      "filterable": 0, 
-      "changeable":0,
-      "jar":"./lib/alibaba.jar"
+      "name": "鲸鱼┃设置",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./lib/alibaba.jar"
     },
     {
       "key": "南瓜fan",
@@ -29,7 +27,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1  
+      "changeable": 1
     },
     {
       "key": "樱花动漫",
@@ -41,7 +39,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/yinghua",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "嘿嘿",
@@ -53,8 +51,8 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/xiake",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
-     },
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
     {
       "key": "超神",
       "name": "鲸鱼┃超神",
@@ -65,7 +63,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/chaoshen",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "嘶哩",
@@ -74,7 +72,7 @@
       "api": "csp_Skapp",
       "playerType": 2,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/sili",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "蝴蝶",
@@ -83,7 +81,7 @@
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "老虎",
@@ -95,7 +93,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/laohu",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "巧技一",
@@ -191,16 +189,16 @@
       "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
     },
     {
-      "key":"csp_JianPian",
-      "name":"鲸鱼┃荐片",
-      "type":3,
-      "api":"csp_JianPian",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://ownjpykxttjzuhy.jiesiwa.com",
-      "jar":"./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+      "key": "csp_JianPian",
+      "name": "鲸鱼┃荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
       "key": "花海",
@@ -209,7 +207,7 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod",
-      "jar":"https://pan.shangui.cc/f/8PXZCo/RevsYourHeart.jar;md5;43b24595ef0f2d8699f5b29db476ef2b"
+      "jar": "https://pan.shangui.cc/f/8PXZCo/RevsYourHeart.jar;md5;43b24595ef0f2d8699f5b29db476ef2b"
     },
     {
       "key": "赞赞",
@@ -222,6 +220,26 @@
       "changeable": 0
     },
     {
+      "key": "csp_CandyMuj_taoju",
+      "name": "鲸鱼┃淘剧",
+      "type": 3,
+      "api": "csp_CandyMuj_taoju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./lib/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
+    },
+    {
+      "key": "csp_CandyMuj_hjtv",
+      "name": "鲸鱼┃韩剧",
+      "type": 3,
+      "api": "csp_CandyMuj_hjtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./lib/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
+    },
+    {
       "key": "玩偶哥哥",
       "name": "鲸鱼┃玩偶",
       "type": 3,
@@ -230,7 +248,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar":"https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
+      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
     },
     {
       "key": "UpYun",
@@ -241,7 +259,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar":"https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
+      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
     },
     {
       "key": "热播库",
@@ -367,7 +385,7 @@
         "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
         "筛选": "1"
       },
-      "jar": "https://123.155123.xyz/HeChengChaXiu.jar" 
+      "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
     },
     {
       "key": "csp_Free",
@@ -402,22 +420,22 @@
       "jar": "https://bjson.cf/XYQ.jar"
     },
     {
-     "key": "七新",
-     "name": "鲸鱼┃七新",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "ext": "./lib/七新.json",
-     "jar": "./lib/HeChengChaXiu.jar"
+      "key": "七新",
+      "name": "鲸鱼┃七新",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/七新.json",
+      "jar": "./lib/HeChengChaXiu.jar"
     },
     {
       "key": "在线之家",
       "name": "鲸鱼┃在线",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/zaixian.js"  
+      "ext": "./lib/zaixian.js"
     },
     {
       "key": "南坊",
@@ -466,7 +484,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v1/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "豪华资源",
@@ -512,7 +530,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "索尼资源",
@@ -566,7 +584,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "csp_Nmys",
@@ -584,7 +602,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "jszy",
@@ -632,7 +650,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://yk.shaozeyy.com/api.php/app/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "秒看资源",
@@ -682,7 +700,7 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "动漫直链",
@@ -820,25 +838,25 @@
       "jar": "./lib/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
     {
-      "key":"csp_Bttoo",
-      "name":"鲸鱼┃比特",
-      "type":3,
-      "api":"csp_Bttwoo",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1
+      "key": "csp_Bttoo",
+      "name": "鲸鱼┃比特",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
-      "key":"迪迪",
-      "name":"鲸鱼┃爱迪",
-      "api":"csp_AppYsV2",
-      "type":3,
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "ext":"https://api123.adys.app/xgapp.php/v3/",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "key": "迪迪",
+      "name": "鲸鱼┃爱迪",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/",
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "小战影视",
@@ -892,7 +910,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "555影视",
@@ -903,18 +921,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/555.json",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
-      "key":"奇优",
-      "name":"️鲸鱼┃奇优",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json",
-      "jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A98B4051E372CC7AE6D6EE03B61B0FFB"
+      "key": "奇优",
+      "name": "️鲸鱼┃奇优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/奇优.json",
+      "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A98B4051E372CC7AE6D6EE03B61B0FFB"
     },
     {
       "key": "奇虎资源",
@@ -930,7 +948,6 @@
       "name": "️鲸鱼┃天空",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-      "playUrl": "https://yun.ckmov.com/?url=",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -973,7 +990,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./lib/JRKAN.js",
-      "jar":"./lib/main.jar;md5;d438b696f10e70386da9700590546aa8"
+      "jar": "./lib/main.jar;md5;d438b696f10e70386da9700590546aa8"
     },
     {
       "key": "js_88看球",
@@ -984,7 +1001,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "./lib/88看球.js",
-      "jar":"./lib/main.jar;md5;d438b696f10e70386da9700590546aa8"
+      "jar": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2"
     },
     {
       "key": "csp_XPath_企鹅体育",
@@ -998,7 +1015,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/企鹅直播.json",
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "csp_Bili_zyy",
@@ -1020,7 +1037,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "虎牙直播js",
@@ -1034,7 +1051,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar":"./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
+      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     }
   ],
   "lives": [
@@ -1562,6 +1579,5 @@
   ],
   "wallpaper": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/绿色壁纸.png",
   "warningText": "鲸鱼反馈群：934640982",
-  "spider": "./lib/zy.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb",
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
 }
