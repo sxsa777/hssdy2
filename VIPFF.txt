@@ -20,16 +20,6 @@
       "jar": "./lib/alibaba.jar"
     },
     {
-      "key": "南瓜fan",
-      "name": "鲸鱼┃南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "樱花动漫",
       "name": "鲸鱼┃樱花℡",
       "type": 3,
@@ -51,27 +41,6 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/xiake",
-      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
-    },
-    {
-      "key": "超神",
-      "name": "鲸鱼┃超神℡",
-      "type": 3,
-      "api": "csp_App",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/chaoshen",
-      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
-    },
-    {
-      "key": "嘶哩",
-      "name": "鲸鱼┃嘶哩",
-      "type": 3,
-      "api": "csp_Skapp",
-      "playerType": 2,
-      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/sili",
       "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
     },
     {
@@ -123,13 +92,6 @@
       "jar": "./lib/qj1209noad.jar;md5;3FA4755C64CA9E819FE8133EC131F171"
     },
     {
-      "key": "乐鱼影视",
-      "name": "鲸鱼┃乐鱼",
-      "type": 3,
-      "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
-      "ext": "./lib/乐鱼影视.js"
-    },
-    {
       "key": "58动漫",
       "name": "鲸鱼┃五八℡",
       "type": 3,
@@ -156,6 +118,86 @@
       "type": 3,
       "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/爱弹幕.js"
+    },
+    {
+      "key": "超神",
+      "name": "鲸鱼┃超神℡",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/chaoshen",
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "赞赞",
+      "name": "鲸鱼┃赞赞℡",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "996",
+      "name": "鲸鱼┃九六℡",
+      "type": 3,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+        "筛选": "1"
+      },
+      "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
+    },
+    {
+      "key": "动漫直链",
+      "name": "鲸鱼┃动漫℡",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/动漫直链.json"
+    },
+    {
+      "key": "csp_Dm84",
+      "name": "鲸鱼┃巴士℡",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "嘶哩",
+      "name": "鲸鱼┃嘶哩",
+      "type": 3,
+      "api": "csp_Skapp",
+      "playerType": 2,
+      "ext": "https://codeberg.org/hssdy2/jingyuvip/raw/branch/main/lib/sili",
+      "jar": "./lib/spider.jar;md5;10a9bc5145aa1975190831c6a4d0d336"
+    },
+    {
+      "key": "南瓜fan",
+      "name": "鲸鱼┃南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "乐鱼影视",
+      "name": "鲸鱼┃乐鱼",
+      "type": 3,
+      "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
+      "ext": "./lib/乐鱼影视.js"
     },
     {
       "key": "左岸",
@@ -208,16 +250,6 @@
       "playerType": "2",
       "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod",
       "jar": "https://pan.shangui.cc/f/8PXZCo/RevsYourHeart.jar;md5;43b24595ef0f2d8699f5b29db476ef2b"
-    },
-    {
-      "key": "赞赞",
-      "name": "鲸鱼┃赞赞℡",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
     },
     {
       "key": "csp_CandyMuj_taoju",
@@ -293,41 +325,6 @@
       }
     },
     {
-      "key": "好戏",
-      "name": "鲸鱼┃好戏™",
-      "type": 3,
-      "jar": "./lib/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "主页url": "https://haoxi.vip/",
-        "简介": "简介：&&</li>",
-        "导演": "导演：&&</li>",
-        "主演": "主演：&&</li>",
-        "影片状态": "状态：&&</li>",
-        "影片类型": "类型：&&</li>",
-        "影片地区": "地区：&&</li>",
-        "影片年代": "年份：&&</li>",
-        "嗅探词": "aliyuncs.com#.m3u8?#m3u8",
-        "数组": "_self\" class=\"public-list-exp\"&&</div>",
-        "标题": "title=\"&&\"",
-        "副标题": "public-list-prb hide ft2\">&&</span>",
-        "图片": "data-src=\"&&\"",
-        "搜索url": "https://haoxi.vip/vodsearch/{wd}----------1---/",
-        "搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
-        "搜索标题": "<a target=\"_self\" href=*>&&</a>",
-        "搜索副标题": "public-list-prb hide ft2\">&&</span>",
-        "搜索图片": "data-src=\"&&\"",
-        "线路数组": "<i class=\"fa ds-dianying\">&&/a>",
-        "线路标题": "</i>&&<",
-        "播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
-        "播放标题": ">&&</a>",
-        "播放列表": "<li&&</li>",
-        "线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
-        "分类url": "https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;a",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
-      }
-    },
-    {
       "key": "乌鸦",
       "name": "鲸鱼┃乌鸦",
       "type": 3,
@@ -363,19 +360,6 @@
         "分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
-    },
-    {
-      "key": "996",
-      "name": "鲸鱼┃九六℡",
-      "type": 3,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-        "筛选": "1"
-      },
-      "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
     },
     {
       "key": "csp_Free",
@@ -668,16 +652,6 @@
       "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
-      "key": "动漫直链",
-      "name": "鲸鱼┃动漫℡",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/动漫直链.json"
-    },
-    {
       "key": "光速视频",
       "name": "鲸鱼┃光速™",
       "type": 1,
@@ -686,13 +660,39 @@
       "quickSearch": 1
     },
     {
-      "key": "csp_Dm84",
-      "name": "鲸鱼┃巴士℡",
+      "key": "好戏",
+      "name": "鲸鱼┃好戏™",
       "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "jar": "./lib/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://haoxi.vip/",
+        "简介": "简介：&&</li>",
+        "导演": "导演：&&</li>",
+        "主演": "主演：&&</li>",
+        "影片状态": "状态：&&</li>",
+        "影片类型": "类型：&&</li>",
+        "影片地区": "地区：&&</li>",
+        "影片年代": "年份：&&</li>",
+        "嗅探词": "aliyuncs.com#.m3u8?#m3u8",
+        "数组": "_self\" class=\"public-list-exp\"&&</div>",
+        "标题": "title=\"&&\"",
+        "副标题": "public-list-prb hide ft2\">&&</span>",
+        "图片": "data-src=\"&&\"",
+        "搜索url": "https://haoxi.vip/vodsearch/{wd}----------1---/",
+        "搜索数组": "a target=\"_self\" class=\"public-list-exp\"&&thumb-else cor5 hide\">",
+        "搜索标题": "<a target=\"_self\" href=*>&&</a>",
+        "搜索副标题": "public-list-prb hide ft2\">&&</span>",
+        "搜索图片": "data-src=\"&&\"",
+        "线路数组": "<i class=\"fa ds-dianying\">&&/a>",
+        "线路标题": "</i>&&<",
+        "播放数组": "<ul class=\"anthology-list-play size\"&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放列表": "<li&&</li>",
+        "线路二次截取": "<div class=\"swiper-wrapper\"&&</div>",
+        "分类url": "https://haoxi.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;a",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#B站$5#电影解说$43"
+      }
     },
     {
       "key": "孜然",
