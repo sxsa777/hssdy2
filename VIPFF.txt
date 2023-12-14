@@ -55,7 +55,7 @@
     },
     {
       "key": "超神",
-      "name": "鲸鱼┃超神",
+      "name": "鲸鱼┃超神℡",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "赞赞",
-      "name": "鲸鱼┃赞赞",
+      "name": "鲸鱼┃赞赞℡",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
