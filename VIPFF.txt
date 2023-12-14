@@ -31,7 +31,7 @@
     },
     {
       "key": "樱花动漫",
-      "name": "鲸鱼┃樱花",
+      "name": "鲸鱼┃樱花℡",
       "type": 3,
       "api": "csp_App",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "巧技一",
-      "name": "鲸鱼┃巧一",
+      "name": "鲸鱼┃巧一℡",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -106,7 +106,7 @@
     },
     {
       "key": "巧技二",
-      "name": "鲸鱼┃巧二",
+      "name": "鲸鱼┃巧二℡",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -115,7 +115,7 @@
     },
     {
       "key": "巧技三",
-      "name": "鲸鱼┃巧三",
+      "name": "鲸鱼┃巧三℡",
       "type": 3,
       "api": "csp_qiao2",
       "playerType": 2,
@@ -131,28 +131,28 @@
     },
     {
       "key": "58动漫",
-      "name": "鲸鱼┃五八",
+      "name": "鲸鱼┃五八℡",
       "type": 3,
       "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/58动漫.js"
     },
     {
       "key": "NT动漫",
-      "name": "鲸鱼┃南通",
+      "name": "鲸鱼┃南通℡",
       "type": 3,
       "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/NT动漫.js"
     },
     {
       "key": "妮可动漫",
-      "name": "鲸鱼┃妮可",
+      "name": "鲸鱼┃妮可℡",
       "type": 3,
       "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/妮可动漫.js"
     },
     {
       "key": "爱弹幕",
-      "name": "鲸鱼┃爱弹",
+      "name": "鲸鱼┃爱弹℡",
       "type": 3,
       "api": "https://agit.ai/1452635819/hhh/raw/branch/main/影视/JS/drpy.min.js",
       "ext": "./lib/爱弹幕.js"
@@ -294,7 +294,7 @@
     },
     {
       "key": "好戏",
-      "name": "鲸鱼┃好戏",
+      "name": "鲸鱼┃好戏™",
       "type": 3,
       "jar": "./lib/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -365,18 +365,8 @@
       }
     },
     {
-      "key": "⭕️看看",
-      "name": "鲸鱼┃看看",
-      "type": 3,
-      "jar": "./lib/fix.jar",
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "996",
-      "name": "鲸鱼┃九六",
+      "name": "鲸鱼┃九六℡",
       "type": 3,
       "filterable": 1,
       "api": "csp_XBPQ",
@@ -468,7 +458,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "鲸鱼┃一起",
+      "name": "鲸鱼┃一起™",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -488,7 +478,7 @@
     },
     {
       "key": "豪华资源",
-      "name": "鲸鱼┃豪华",
+      "name": "鲸鱼┃豪华™",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -520,17 +510,6 @@
         "港台综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "鲸鱼┃追剧",
-      "name": "鲸鱼┃追剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
     },
     {
       "key": "索尼资源",
@@ -606,7 +585,7 @@
     },
     {
       "key": "jszy",
-      "name": "鲸鱼┃极速",
+      "name": "鲸鱼┃极速™",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
       "searchable": 1,
@@ -646,25 +625,11 @@
     },
     {
       "key": "少泽影客（APP）",
-      "name": "鲸鱼┃少泽",
+      "name": "鲸鱼┃少泽™",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://yk.shaozeyy.com/api.php/app/",
       "jar": "./lib/YSC.jar;md5;abbb96e6409112492430dd6521d66df0"
-    },
-    {
-      "key": "秒看资源",
-      "name": "鲸鱼┃秒看",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
     },
     {
       "key": "雨哥哥影视",
@@ -676,7 +641,7 @@
     },
     {
       "key": "Cokemv",
-      "name": "鲸鱼┃可乐",
+      "name": "鲸鱼┃可乐™",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": 2,
@@ -704,7 +669,7 @@
     },
     {
       "key": "动漫直链",
-      "name": "鲸鱼┃动漫",
+      "name": "鲸鱼┃动漫℡",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -714,7 +679,7 @@
     },
     {
       "key": "光速视频",
-      "name": "鲸鱼┃光速",
+      "name": "鲸鱼┃光速™",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -722,7 +687,7 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "鲸鱼┃巴士",
+      "name": "鲸鱼┃巴士℡",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -777,25 +742,25 @@
     },
     {
       "key": "1a05b72ecc4cb6326f046a5585f3432b",
-      "name": "鲸鱼┃卧龙",
+      "name": "鲸鱼┃卧龙™",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
     },
     {
       "key": "7ced0073619101d397b5c86fc3578ed4",
-      "name": "鲸鱼┃火狐",
+      "name": "鲸鱼┃火狐™",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
     {
       "key": "ffbd9b462e2a953e04e79add6b95fb19",
-      "name": "鲸鱼┃新浪",
+      "name": "鲸鱼┃新浪™",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
     },
     {
       "key": "e173267b0d7e1f1a1189c22c3bb7b556",
-      "name": "鲸鱼┃淘片",
+      "name": "鲸鱼┃淘片™",
       "type": 0,
       "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
     },
@@ -822,7 +787,7 @@
     },
     {
       "key": "drpy_js_007影视",
-      "name": "鲸鱼┃零七",
+      "name": "鲸鱼┃零七™",
       "type": 3,
       "api": "https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/so/gao/raw/branch/master/js/007影视.js"
@@ -836,15 +801,6 @@
       "changeable": 1,
       "ext": "./lib/电影港磁力.json",
       "jar": "./lib/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "鲸鱼┃比特",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "迪迪",
@@ -877,7 +833,7 @@
     },
     {
       "key": "drpy_js_光棍影院",
-      "name": "鲸鱼┃光棍",
+      "name": "鲸鱼┃光棍™",
       "type": 3,
       "api": "https://agit.ai/so/gao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/so/gao/raw/branch/master/js/光棍影院.js"
@@ -914,7 +870,7 @@
     },
     {
       "key": "555影视",
-      "name": "鲸鱼┃五五",
+      "name": "鲸鱼┃五五™",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -936,7 +892,7 @@
     },
     {
       "key": "奇虎资源",
-      "name": "鲸鱼┃奇虎",
+      "name": "鲸鱼┃奇虎™",
       "type": 1,
       "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -945,7 +901,7 @@
     },
     {
       "key": "天空",
-      "name": "️鲸鱼┃天空",
+      "name": "️鲸鱼┃天空™",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "playUrl": "",
